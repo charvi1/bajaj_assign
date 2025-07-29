@@ -7,7 +7,7 @@ const bfhlRoutes = require('./routes/bfhlRoutes');
 app.use(express.json());
 app.use('/', bfhlRoutes);
 
-app.get('/', (req, res) => {
+app.get('/bfhl', (req, res) => {
     res.send('BFHL API is running');
 });
 
