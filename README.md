@@ -3,7 +3,7 @@ A REST API built using Node.js (Express.js)
 This API processes an array input and returns categorized data including numbers, alphabets, special characters, sum, and reverse concatenation strings.
 
  Hosted API Link (Render Deployment)
-https://bajaj-assign.onrender.com/
+https://bajaj-assign.onrender.com/bfhl
 
 Problem Statement
 Build and host a REST API at /bfhl which:
